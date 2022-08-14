@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 public class Demo_v4 {
 	public String baseUrl = "https://www.edureka.co/";
-	String driverPath = "C:\\Selenium_Jars\\chromedriver_win32\\chromedriver.exe";
+	String driverPath = "C:\\Selenium_Jars\\chromedriver1\\chromedriver.exe";
 	public WebDriver driver;
 
 	@Test
